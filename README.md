@@ -33,9 +33,3 @@ The circuit diagram is designed to test the input and output characteristics of 
 
 ### Testing Setup
 ![Testing Setup](setup.jpg)
-
-## Contributing
-Feel free to fork the repository and submit pull requests for improvements or modifications. If you have suggestions or issues, open an issue in the GitHub repository.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
